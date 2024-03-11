@@ -10,5 +10,5 @@ place the userContent.css file in there
 
 
 
-
+Reccomended hardening guide for new installations:
 https://www.youtube.com/watch?v=FYj_r5b4WJY
