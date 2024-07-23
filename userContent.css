@@ -9,7 +9,7 @@
     }
 
     .logo {
-        background: url("file:///C:\\Users\\Fletcher\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\5rjvyibx.default-release-1672123468095\\chrome\\about-logo.png") no-repeat center center !important;
+        background: url("/home/Fletch/.mozilla/firefox/[Profile Here]/about-logo.png") no-repeat center center !important;
         display: inline-block !important;
         height: 96px !important;
         width: 96px !important;
