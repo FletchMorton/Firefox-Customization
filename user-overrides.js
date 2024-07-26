@@ -13,3 +13,9 @@ user_pref("browser.startup.homepage", "about:home");
 user_pref("browser.newtabpage.enabled", true);
 
 user_pref("privacy.resistFingerprinting.letterboxing", false); // [HIDDEN PREF]
+
+//Get rid of the stupid down arrow tab thing
+user_pref("browser.tabs.tabmanager.enabled", false);
+
+//Compact mode
+user_pref("browser.compactmode.show", true);
